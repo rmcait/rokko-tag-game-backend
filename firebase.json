@@ -3,6 +3,8 @@
     {
       "source": "functions",
       "codebase": "default",
+      "runtime": "nodejs22",
+      "gen2": true,
       "disallowLegacyRuntimeConfig": true,
       "ignore": [
         "node_modules",
